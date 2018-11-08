@@ -57,18 +57,25 @@ const YourComponent = styled.div`
 
     /* XL: 4K 2560px */
     ${rmq('xl')} { background: hotpink; }
+
     /* ll: Laptop Large 1440px */
     ${rmq('ll')} { background: hotpink; }
+
     /* ls: Laptop 1024px */
     ${rmq('ls')} { background: hotpink; }
+
     /* t: Tablet 768px */
     ${rmq('t')}  { background: hotpink; }
+
     /* ml: Mobile Large 425px */
     ${rmq('ml')} { background: hotpink; }
+
     /* mm: Mobile Mediun 375px */
     ${rmq('mm')} { background: hotpink; }
+
     /* ms: Mobile Small 320px */
     ${rmq('ms')} { background: hotpink; }
+
 
 `;
 ```
