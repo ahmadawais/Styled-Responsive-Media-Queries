@@ -13,13 +13,13 @@
 
 <p align="center">
   <a title="Total Downloads" href="https://www.npmjs.com/package/styled-rmq">
-    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat-square">
+    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat">
   </a>
   <a title="Current Cersion" href="https://www.npmjs.com/package/styled-rmq">
-    <img src="https://img.shields.io/npm/v/styled-rmq.svg?style=flat-square">
+    <img src="https://img.shields.io/npm/v/styled-rmq.svg?style=flat">
   </a>
   <a title="MIT License" href="LICENSE">
-    <img src="https://img.shields.io/github/license/styled-rmq/styled-rmq.svg?style=flat-square">
+    <img src="https://img.shields.io/github/license/styled-rmq/styled-rmq.svg?style=flat">
   </a>
   <a title="Follow me on Twitter @MrAhmadAwais →" href="https://twitter.com/mrahmadawais">
     <img src="https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow">
@@ -27,13 +27,6 @@
   <br>
   <br>
 </p>
-
-> This project is under active development. Any feedback or contributions would be appreciated.
-
-
-# Styled-Responsive-Media-Queries `styled-rmq`
-
- > Styled Components Responsive Media Queries — Standard size from Chrome DevTools
 
 ## Getting Started
 
