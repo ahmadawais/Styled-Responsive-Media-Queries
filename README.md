@@ -18,9 +18,6 @@
   <a title="Current Cersion" href="https://www.npmjs.com/package/styled-rmq">
     <img src="https://img.shields.io/npm/v/styled-rmq.svg?style=flat">
   </a>
-  <a title="MIT License" href="LICENSE">
-    <img src="https://img.shields.io/github/license/styled-rmq/styled-rmq.svg?style=flat">
-  </a>
   <a title="Follow me on Twitter @MrAhmadAwais →" href="https://twitter.com/mrahmadawais">
     <img src="https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow">
   </a>
