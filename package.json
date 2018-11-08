@@ -13,5 +13,27 @@
 	"bugs": {
 		"url": "https://github.com/ahmadawais/Styled-Responive-Media-Queries/issues"
 	},
-	"homepage": "https://github.com/ahmadawais/Styled-Responive-Media-Queries#readme"
+	"homepage": "https://github.com/ahmadawais/Styled-Responive-Media-Queries#readme",
+	"devDependencies": {
+		"auto-changelog": "^1.8.1",
+		"release-it": "^7.6.3"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": ".clrc.hbs",
+		"commitLimit": false,
+		"package": true,
+		"replaceText": {
+			"FIX: ": "",
+			"NEW: ": "",
+			"IMPROVE: ": "",
+			"DOC: ": ""
+		}
+	},
+	"scripts": {
+		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
+		"release": "release-it",
+		"release-major": "release-it major",
+		"release-dry": "release-it --dry-run"
+	}
 }
