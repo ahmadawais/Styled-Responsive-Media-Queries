@@ -1,0 +1,17 @@
+{
+	"name": "styled-rmq",
+	"version": "1.0.0",
+	"description": "Styled Components Responsive Media Queries — Standard size from Chrome DevTools",
+	"main": "./src/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadawais/Styled-Responive-Media-Queries.git"
+	},
+	"keywords": [],
+	"author": "Ahmad Awais (https://AhmadAwais.com/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ahmadawais/Styled-Responive-Media-Queries/issues"
+	},
+	"homepage": "https://github.com/ahmadawais/Styled-Responive-Media-Queries#readme"
+}
