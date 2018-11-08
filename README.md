@@ -78,6 +78,10 @@ const YourComponent = styled.div`
 
 
 `;
+
+export default (
+  <YourComponent>Being Used Here!</YourComponent>
+);
 ```
 
 ## Some Context
