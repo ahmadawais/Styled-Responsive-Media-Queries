@@ -4,7 +4,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/Styled-Responsive-Media-Queries/master/images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -23,11 +23,13 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
+> 🐛 Changelog [`5cca6f1`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/5cca6f12a059c0aa7ff76ba3556706186c7bb52b) <br>
 > 🐛 broken badge [`4781b95`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/4781b95db4ee5fa3ca0ecc3f7a248fa01a6673a4) <br>
 > 🐛 Readme Header [`782eb02`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/782eb026399f397e9a8cefa616a2fb2753e49a0a) <br>
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Update the changelog [`241a54a`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/241a54a7b20bf5cb7fad1b7807d658b0736666f2) <br>
 > 📖 Readme Header [`67335da`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/67335da5db4bb48964f935217f259ccb6071fb12) <br>
 
 <br>
