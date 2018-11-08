@@ -8,7 +8,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: 1.0.0
+### RELEASE: 1.1.0
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -29,6 +29,9 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog link [`3c11c1b`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/3c11c1b650ae43fbdbb248df0610abcf1016e130) <br>
+> 📖 Changelog [`2dff221`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/2dff221d953d6bc3302757616295aa0176094bf3) <br>
+>  📖 Update the changelog [`57a4bae`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/57a4baea60a128be2f80ba93834859ede720484d) <br>
 >  📖 Update the changelog [`241a54a`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/241a54a7b20bf5cb7fad1b7807d658b0736666f2) <br>
 > 📖 Readme Header [`67335da`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/67335da5db4bb48964f935217f259ccb6071fb12) <br>
 
