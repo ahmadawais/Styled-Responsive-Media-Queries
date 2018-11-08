@@ -90,7 +90,7 @@ All of the sizes here come directly from the Chrome Dev Tools. I prefer px and [
 
 ![RMQ](https://on.ahmda.ws/c51fe6/c)
 
-## Changelog
+## [Changelog →](CHANGELOG.md)
 
 All notable changes in this project's [released versions](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/releases) are documented in the [changelog](CHANGELOG.md) file.
 
