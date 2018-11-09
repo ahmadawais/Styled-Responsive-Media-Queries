@@ -8,6 +8,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [1.2.0](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.1.0...1.2.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Dynamic Mini Media Queries [`626026d`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/626026dbdac8886c339546ed80628cbf7f702649) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: 1.1.0
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
