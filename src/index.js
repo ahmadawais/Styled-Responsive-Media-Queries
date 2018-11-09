@@ -21,7 +21,10 @@ module.exports = function(size) {
 		case `2560`:
 		case `xl`:
 			return `@media (max-width: 2560px)`;
+
+		// You can also define custom size for mini Media Queries
+		// that you should use only on element basis.
 		default:
-			return `@media (max-width: 2560px)`;
+			return `@media (max-width: ${size}px)`;
 	}
 };
