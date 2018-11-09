@@ -8,6 +8,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [1.3.0](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.2.0...1.3.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Custom Media Queries [`8c6fcb7`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/8c6fcb74cb0816ef78dce0b44def61be3b4b7079) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [1.2.0](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.1.0...1.2.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
