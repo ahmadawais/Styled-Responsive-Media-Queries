@@ -76,7 +76,14 @@ const YourComponent = styled.div`
     /* ms: Mobile Small 320px */
     ${rmq('ms')} { background: hotpink; }
 
-
+    /**
+     *  Custom Media Queries
+     * — Think of elements instead of size
+     * — Make them look good on all sizes.
+     *
+     * E.g. Small tablet size 585px.
+    */
+    ${rmq('585')} { background: hotpink; }
 `;
 
 export default (
