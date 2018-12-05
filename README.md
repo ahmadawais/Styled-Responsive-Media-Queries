@@ -13,11 +13,12 @@
 
 <p align="center">
   <a title="Total Downloads" href="https://www.npmjs.com/package/styled-rmq">
-    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat">
+    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat&label=DOWNLOADS">
   </a>
-  <a title="Current Cersion" href="https://www.npmjs.com/package/styled-rmq">
+  <a title="Current Version" href="https://www.npmjs.com/package/styled-rmq">
     <img src="https://img.shields.io/npm/v/styled-rmq.svg?style=flat">
   </a>
+  <a title="This open source project is supported by VSCode.pro" href="https://VSCode.pro" target="_blank"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=444444&amp;colorB=4F44D6" alt="Master course"></a>
   <a title="Follow me on Twitter @MrAhmadAwais →" href="https://twitter.com/mrahmadawais">
     <img src="https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow">
   </a>
