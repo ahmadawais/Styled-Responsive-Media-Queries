@@ -13,7 +13,7 @@
 
 <p align="center">
   <a title="Total Downloads" href="https://www.npmjs.com/package/styled-rmq">
-    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat&label=DOWNLOADS">
+    <img src="https://img.shields.io/npm/dt/styled-rmq.svg?style=flat&label=Downloads">
   </a>
   <a title="Current Version" href="https://www.npmjs.com/package/styled-rmq">
     <img src="https://img.shields.io/npm/v/styled-rmq.svg?style=flat">
