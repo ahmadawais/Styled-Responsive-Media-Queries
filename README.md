@@ -93,7 +93,7 @@ export default (
 
 ## Some Context + Examples
 
-All of the sizes used in the responsive media queries in `styled-rmq` come directly from the Chrome Dev Tools. I prefer px and [don't use `em` for media queries](https://adamwathan.me/dont-use-em-for-media-queries/). I'll collect a list of sites using this package below.
+All of the sizes used in the responsive media queries in `styled-rmq` come directly from the Chrome Dev Tools. I prefer `px` and [don't use `em` for media queries](https://adamwathan.me/dont-use-em-for-media-queries/). I'll collect a list of sites using this package below.
 
 - [VSCode Power User Course →](https://VSCode.pro)
 
