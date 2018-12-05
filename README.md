@@ -8,7 +8,7 @@
 <h1 align="center">Styled-Responsive-Media-Queries <code>styled-rmq</code></h1>
 
 <p align="center">
-  Styled Components Responsive Media Queries — Standard size from Chrome DevTools
+  Styled Components Responsive Media Queries — Standard sizes from Chrome DevTools.
 </p>
 
 <p align="center">
