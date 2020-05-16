@@ -71,7 +71,7 @@ const YourComponent = styled.div`
     /* ml: Mobile Large 425px */
     ${rmq('ml')} { background: hotpink; }
 
-    /* mm: Mobile Mediun 375px */
+    /* mm: Mobile Medium 375px */
     ${rmq('mm')} { background: hotpink; }
 
     /* ms: Mobile Small 320px */
