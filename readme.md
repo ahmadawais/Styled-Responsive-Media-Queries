@@ -1,24 +1,18 @@
-<p align="center">
+<div align="center">
   <br>
   <a href="https://twitter.com/MrAhmadAwais/">
     <img src="https://on.awais.dev/ef9952/c" width="120"/>
   </a>
-</p>
+  <h1 align="center">Styled-Responsive-Media-Queries <code>styled-rmq</code></h1>
 
-<h1 align="center">Styled-Responsive-Media-Queries <code>styled-rmq</code></h1>
+  <p align="center">
+    Styled Components Responsive Media Queries — Standard sizes from Chrome DevTools.
+  </p>
 
-<p align="center">
-  Styled Components Responsive Media Queries — Standard sizes from Chrome DevTools.
-</p>
-
-<p align="center">
-
-  [![DOWNLOADS](https://img.shields.io/npm/dt/styled-rmq?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/styled-rmq) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=6A788D&style=flat)][n] [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=6A788D&style=flat)][v] [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=6A788D&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
+[![DOWNLOADS](https://img.shields.io/npm/dt/styled-rmq?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/styled-rmq) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=6A788D&style=flat)][n] [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=6A788D&style=flat)][v] [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=6A788D&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
 
-  <br>
-  <br>
-</p>
+</div>
 
 <br>
 
