@@ -33,8 +33,6 @@ npm install --save styled-components styled-rmq
 
 ## Usage
 
-Import both.
-
 ```js
 import styled from '@emotion/styled'; // OR import styled from 'styled-components';
 import rmq from 'styled-rmq';
