@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.3.3](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.3.2...1.3.3)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Sponsor [`a5dcb1a`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/a5dcb1ae12aff69bc8e7a9e9e03b00732d8342d8) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.3.2](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.3.1...1.3.2)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
@@ -46,6 +58,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 New docs [`6dcbadb`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/6dcbadb52de4cc1d07bf4463c3a33f5d7f89b0f5) <br>
+> 📖 Changelog [`acef009`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/acef009974c46d850de0737eb671359001c09eeb) <br>
 
 <br>
 

@@ -1,6 +1,6 @@
 {
 	"name": "styled-rmq",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"description": "Styled Components Responsive Media Queries — Standard size from Chrome DevTools",
 	"main": "./src/index.js",
 	"repository": "ahmadawais/Styled-Responsive-Media-Queries",
