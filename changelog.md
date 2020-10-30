@@ -32,6 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.3.2](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.3.1...1.3.2)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Badges Lingo [`903b261`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/903b2610fddfec71b6365ee1be5dbae02be9667f) <br>
+> 👌 Badges Lingo [`77f7de6`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/77f7de621835a776d19fd75a123c20f18b31c1dc) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Lingo [`e4eda82`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/e4eda8238f2f06dbfb809e9d8296e2c830bf5362) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 New docs [`6dcbadb`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/6dcbadb52de4cc1d07bf4463c3a33f5d7f89b0f5) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.3.1](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/compare/1.3.0...1.3.1)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -42,14 +63,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
-> 👌 formatting code [`940d0bc`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/940d0bc4c6e09b2ece5230999d16079e49f2d8e4) <br>
 > 👌 Lower-case names [`9c37a98`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/9c37a982006815d602db94ac0dda949e004bcb00) <br>
+> 👌 formatting code [`940d0bc`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/940d0bc4c6e09b2ece5230999d16079e49f2d8e4) <br>
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
-> 🐛 alt [`acd579a`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/acd579a968658cc760b9db2028d465c6b2e0ffc1) <br>
 > 🐛 Label [`1db66f3`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/1db66f3958961f620f857b3d6f37b392cf9573b9) <br>
+> 🐛 alt [`acd579a`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/acd579a968658cc760b9db2028d465c6b2e0ffc1) <br>
 > 🐛 grammar [`f480c49`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/f480c492986ae33a01dd92a81042f605cc6a5eee) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`c59449b`](https://github.com/ahmadawais/Styled-Responsive-Media-Queries/commit/c59449b3f067be5582532fd1896cb501879ac90e) <br>
 
 <br>
 
