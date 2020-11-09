@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://twitter.com/MrAhmadAwais/">
-    <img src="https://on.awais.dev/ef9952/c" width="120"/>
+    <img src="https://on.awais.dev/jkur9j68/c" width="120"/>
   </a>
   <h1 align="center">Styled-Responsive-Media-Queries <code>styled-rmq</code></h1>
 
