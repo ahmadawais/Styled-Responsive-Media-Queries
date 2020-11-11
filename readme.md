@@ -69,7 +69,7 @@ All of the sizes used in the responsive media queries in `styled-rmq` come direc
 - [VSCode Power User Course][n]
 - [Node CLI Course][n]
 
-![RMQ](https://on.awais.dev/03dae5/c)
+![RMQ](https://on.awais.dev/JruAKpw9/c)
 
 <br>
 
